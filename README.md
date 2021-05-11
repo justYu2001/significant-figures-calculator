@@ -1,2 +1,2 @@
-# significant-figure-calculator
-A calculator app can calculate significant figure.
+# significant-figures-calculator
+A calculator app can calculate significant figures.
